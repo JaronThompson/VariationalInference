@@ -1,0 +1,2 @@
+# VariationalInference
+Exploring variational inference 
