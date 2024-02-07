@@ -7,3 +7,7 @@ Example 1: Bayesian linear regression using a neural network to generate samples
 Example 2: Neural ordinary differential equations as normalizing flow models to convert Gaussian noise into a bimodal mixture of Gaussians
 
 ![Alt text](figures/NODE_bimodal.png?raw=true "Variational inference using neural ODEs for normalizing flows")
+
+Example 3: Planar flow for variational inference of the generalized Lotka-Volterra model
+
+![Alt text](figures/gLV_example.png?raw=true "Variational inference of ODEs using planar flows")
