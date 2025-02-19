@@ -1,5 +1,7 @@
 # Exploring variational inference
 
+Please see the tutorial notebooks for a discussion of the theory and a simple example. 
+
 Example 1: Bayesian linear regression using a neural network to generate samples from parameter posterior
 
 ![Alt text](figures/linear_regression.png?raw=true "Variational inference for Bayesian linear regression")
